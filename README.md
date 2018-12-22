@@ -1,4 +1,7 @@
 # rockblock
+https://cdn.sparkfun.com/datasheets/Wireless/General/IRDM_ISU_ATCommandReferenceMAN0009_Rev2.0_ATCOMM_Oct2012.pdf
+http://rock7mobile.com/downloads/RockBLOCK-Developer-Guide-Mk2.pdf
+
 https://kb.sandisk.com/app/answers/detail/a_id/17056/~/list-of-mobile-carrier-gateway-addresses
 
 
